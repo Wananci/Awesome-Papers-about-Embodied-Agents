@@ -22,14 +22,14 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   <sup>1</sup>Department of Mechanical Engineering, Stanford University  
   <sup>2</sup>Department of Computer Science, Stanford University  
 
-<details>
-  <summary>🔍 <b>Highlight</b></summary>
+  <details>
+    <summary>🔍 <b>Highlight</b></summary>
 
-  - **Human Evaluation**: Leveraging human feedback to guide learning.  
-  - **Primitive Skill**: Focused on distinct robot manipulation skills.  
-  - **Parameter Policy**: Adjust parameters for different tasks.  
+    - **Human Evaluation**: Leveraging human feedback to guide learning.  
+    - **Primitive Skill**: Focused on distinct robot manipulation skills.  
+    - **Parameter Policy**: Adjust parameters for different tasks.  
 
-  ![SEED Architecture](./imgs/SEED.png)
-</details>
+    ![SEED Architecture](./imgs/SEED.png)
+  </details>
 
   
