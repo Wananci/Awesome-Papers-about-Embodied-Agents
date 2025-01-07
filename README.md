@@ -4,7 +4,7 @@ A curated list of influential papers about VLM for embodiment task which is main
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Primitive Skill](#🚀-primitive-skill)
+- [Primitive Skill](#primitive-skill)
 - [Learning in Embodied Agents](#learning-in-embodied-agents)
 - [Simulation Environments](#simulation-environments)
 - [Applications](#applications)
@@ -15,6 +15,7 @@ A curated list of influential papers about VLM for embodiment task which is main
 
 Embodied agents are AI-driven systems designed to interact with the physical or virtual world through a body or avatar, enabling perception, action, and communication. These agents combine sensory inputs (e.g., vision, speech) with cognitive processes to perform tasks, simulate human-like behaviors, or engage in immersive interactions. They are widely used in robotics, virtual assistants, and gaming for more natural and context-aware interactions.
 
+<a id="primitive-skill"></a>
 
 # 🚀 Primitive Skill
 - [**Primitive Skill-based Robot Learning from Human Evaluative Feedback**](http://arxiv.org/abs/2307.15801) [**arXiv 2023.07**] [[**Code**]](https://seediros23.github.io/)
