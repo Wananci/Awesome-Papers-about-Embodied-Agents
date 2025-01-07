@@ -23,3 +23,13 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   <sup>1</sup>Department of Mechanical Engineering, Stanford University  
   <sup>2</sup>Department of Computer Science, Stanford University
 
+<details>
+  <summary>点击展开/折叠</summary>
+
+  这是折叠部分的内容，可以包括普通文本、列表、甚至代码块：
+
+  - 第一项
+  - 第二项
+
+  ```python
+  print("代码示例")
