@@ -5,11 +5,7 @@ A curated list of influential papers about VLM for embodiment task which is main
 ## Table of Contents
 - [Introduction](#introduction)
 - [Primitive Skill](#primitive-skill)
-- [Learning in Embodied Agents](#learning-in-embodied-agents)
-- [Simulation Environments](#simulation-environments)
-- [Applications](#applications)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 # Introduction
 
@@ -23,9 +19,9 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   <details>
     <summary>🔍 <b>Highlight</b></summary>
 
-    - **Human Evaluation**: Leveraging human feedback to guide learning.  
-    - **Primitive Skill**: Focused on distinct robot manipulation skills.  
-    - **Parameter Policy**: Adjust parameters for different tasks.  
+    - **Human Evaluation** 
+    - **Primitive Skill**
+    - **Parameter Policy**
 
     ![SEED Architecture](./imgs/SEED.png)
   </details>
