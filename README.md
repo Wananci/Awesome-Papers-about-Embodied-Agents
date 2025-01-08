@@ -18,7 +18,7 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
 
   <details>
     <summary>🔍 <b>Highlight</b></summary>
-    - <em>Our method instead combines off-policy actorcritic training with a stochastic actor, and further aims to maximize the entropy of this actor with an entropy maximization objective.</em>  
+    <em>"Our method instead combines off-policy actorcritic training with a stochastic actor, and further aims to maximize the entropy of this actor with an entropy maximization objective."</em>  
 
     - **Maximum Entropy**
     - **Stochastic Actor**
