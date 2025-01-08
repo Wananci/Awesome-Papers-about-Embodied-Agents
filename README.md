@@ -18,7 +18,7 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
 
   <details>
     <summary>🔍 <b>Highlight</b></summary>
-
+    - <em>`Our method instead combines off-policy actorcritic training with a stochastic actor, and further aims to maximize the entropy of this actor with an entropy maximization objective.`</em>
     - **Maximum Entropy**
     - **Stochastic Actor**
 
@@ -26,7 +26,7 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
 
   **Authors**: Tuomas Haarnoja<sup>1</sup>, Aurick Zhou<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Sergey Levine<sup>1</sup>  
   <sup>1</sup>University of California, Berkeley  
-  
+
 - [**Primitive Skill-based Robot Learning from Human Evaluative Feedback**](http://arxiv.org/abs/2307.15801) [**arXiv 2023.07**] [[**Code**]](https://seediros23.github.io/)
 
   <details>
