@@ -28,6 +28,21 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   **Authors**: Tuomas Haarnoja<sup>1</sup>, Aurick Zhou<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Sergey Levine<sup>1</sup>  
   <sup>1</sup>University of California, Berkeley  
 
+- [**Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks**](http://arxiv.org/abs/XXXX.XXXXX) [**arXiv 20XX.XX**] [[**Code**]](https://github.com/example/repo)
+
+  <details>
+    <summary>🔍 <b>Highlight</b></summary>
+
+    - **Reinforcement Learning** 
+    - **Behavior Primitives**
+    - **Manipulation Tasks**
+
+    ![Maple Architecture](./imgs/Maple.png)
+  </details>
+
+  **Authors**: Soroush Nasiriany<sup>1</sup>, Huihan Liu<sup>1</sup>, Yuke Zhu<sup>1</sup>  
+  <sup>1</sup>University of [Institution Name]  
+
 - [**Primitive Skill-based Robot Learning from Human Evaluative Feedback**](http://arxiv.org/abs/2307.15801) [**arXiv 2023.07**] [[**Code**]](https://seediros23.github.io/)
 
   <details>
