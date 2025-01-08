@@ -33,11 +33,11 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   <details>
     <summary>🔍 <b>Highlight</b></summary>
 
-    - **Reinforcement Learning** 
-    - **Behavior Primitives**
-    - **Manipulation Tasks**
+    - **Hierarchical Policy: high-level for primitive and low-level for parameters** 
+    - **Agent tends to use high-level primitive rather than atomic action**
+    - **Exploration with Affordances**
 
-    ![Maple Architecture](./imgs/Maple.png)
+    ![Maple Architecture](./imgs/MAPLE.png)
   </details>
 
   **Authors**: Soroush Nasiriany<sup>1</sup>, Huihan Liu<sup>1</sup>, Yuke Zhu<sup>1</sup>  
