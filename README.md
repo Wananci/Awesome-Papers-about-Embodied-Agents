@@ -14,6 +14,19 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
 <a id="primitive-skill"></a>
 
 # 🚀 Primitive Skill
+- [**Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor**](http://arxiv.org/abs/1801.01290) [**arXiv 2018.08**] [[**Code**]](https://github.com/haarnoja/sac)
+
+  <details>
+    <summary>🔍 <b>Highlight</b></summary>
+
+    - **Maximum Entropy**
+    - **Stochastic Actor**
+
+  </details>
+
+  **Authors**: Tuomas Haarnoja<sup>1</sup>, Aurick Zhou<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Sergey Levine<sup>1</sup>  
+  <sup>1</sup>University of California, Berkeley  
+  
 - [**Primitive Skill-based Robot Learning from Human Evaluative Feedback**](http://arxiv.org/abs/2307.15801) [**arXiv 2023.07**] [[**Code**]](https://seediros23.github.io/)
 
   <details>
@@ -29,5 +42,6 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   **Authors**: Ayano Hiranaka*<sup>1</sup>, Minjune Hwang*<sup>2</sup>, Sharon Lee<sup>2</sup>, Chen Wang<sup>2</sup>, Li Fei-Fei<sup>2</sup>, Jiajun Wu<sup>2</sup>, Ruohan Zhang<sup>2</sup>  
   <sup>1</sup>Department of Mechanical Engineering, Stanford University  
   <sup>2</sup>Department of Computer Science, Stanford University  
+
 
 
