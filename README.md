@@ -4,9 +4,9 @@ A curated list of influential papers about VLM for embodiment task which is main
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Reinforcement Learning](#reinforcement-learning)
+- [🤖Reinforcement Learning](#reinforcement-learning)
   - [Primitive Skill](#primitive-skill)
-  - [Human Reinforcement](#human-reinforcement)
+  - [Human Reinforcement](#world-model)
 - [Vision Language Model](#vision-language-model)
 
 # Introduction
@@ -65,9 +65,25 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   <sup>1</sup>Department of Mechanical Engineering, Stanford University  
   <sup>2</sup>Department of Computer Science, Stanford University  
 
-<a id="human-reinforcement"></a>
+<a id="world-model"></a>
 
-# Human Reinforcement  
+# World Model
+- [**Learning Universal Policies via Text-Guided Video Generation**](http://arxiv.org/abs/2302.00111) [**arXiv 2023.11**] [[**Code**]](https://universal-policy.github.io/)
+  
+  <details>
+    <summary>🔍 <b>Highlight</b></summary>
 
+    - **Diffusion model - Tiling** 
+    - **Coarse-to-fine**
+
+    ![Unipi](./imgs/UniPi.png)
+  </details>
+
+  **Authors**: Yilun Du*<sup>†‡</sup>, Mengjiao Yang*<sup>‡§</sup>, Bo Dai<sup>‡¶</sup>, Hanjun Dai<sup>‡¶</sup>, Ofir Nachum<sup>‡</sup>, Joshua B. Tenenbaum<sup>†</sup>, Dale Schuurmans<sup>‡‖</sup>, Pieter Abbeel<sup>§</sup>  
+  <sup>†</sup>MIT  
+  <sup>‡</sup>Google DeepMind  
+  <sup>§</sup>UC Berkeley  
+  <sup>¶</sup>Georgia Tech  
+  <sup>‖</sup>University of Alberta
 
 
