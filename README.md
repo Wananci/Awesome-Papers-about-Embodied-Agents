@@ -74,7 +74,7 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
     <summary>🔍 <b>Highlight</b></summary>
 
     - **Diffusion model - Tiling** 
-    - **Coarse-to-fine**
+    - **Coarse-to-fine generate video**
 
     ![Unipi](./imgs/UniPi.png)
   </details>
@@ -86,4 +86,21 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   <sup>¶</sup>Georgia Tech  
   <sup>‖</sup>University of Alberta
 
+- [**Learning Interactive Real-World Simulators**](http://arxiv.org/abs/2310.06114) [**arXiv 2024.09**] [[**Code**]](https://universal-simulator.github.io)
+
+  <details>
+    <summary>🔍 <b>Highlight</b></summary>
+
+    - **Multi-source data**  
+    - **Diffusion model**
+    - **Generate video through past observation and input action**   
+  
+    ![UniSim](./imgs/UniSim.png)
+  </details>
+
+  **Authors**: Sherry Yang<sup>1,2</sup>, Yilun Du<sup>3</sup>, Seyed Kamyar Seyed Ghasemipour<sup>2</sup>, Jonathan Tompson<sup>2</sup>, Leslie Kaelbling<sup>3</sup>, Dale Schuurmans<sup>2,4</sup>, Pieter Abbeel<sup>1</sup>  
+  <sup>1</sup>UC Berkeley  
+  <sup>2</sup>Google DeepMind  
+  <sup>3</sup>MIT  
+  <sup>4</sup>University of Alberta  
 
