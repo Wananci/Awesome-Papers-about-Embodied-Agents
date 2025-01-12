@@ -7,7 +7,6 @@ A curated list of influential papers about VLM for embodiment task which is main
 - [🤖Reinforcement Learning](#reinforcement-learning)
   - [Primitive Skill](#primitive-skill)
 - [👀Vision Language Action Model](#vision-language-action-model)
-
 # Introduction
 
 Embodied agents are AI-driven systems designed to interact with the physical or virtual world through a body or avatar, enabling perception, action, and communication. These agents combine sensory inputs (e.g., vision, speech) with cognitive processes to perform tasks, simulate human-like behaviors, or engage in immersive interactions. They are widely used in robotics, virtual assistants, and gaming for more natural and context-aware interactions.
@@ -83,11 +82,7 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   </details>
 
   **Authors**: Yilun Du*<sup>†‡</sup>, Mengjiao Yang*<sup>‡§</sup>, Bo Dai<sup>‡¶</sup>, Hanjun Dai<sup>‡¶</sup>, Ofir Nachum<sup>‡</sup>, Joshua B. Tenenbaum<sup>†</sup>, Dale Schuurmans<sup>‡‖</sup>, Pieter Abbeel<sup>§</sup>  
-  <sup>†</sup>MIT  
-  <sup>‡</sup>Google DeepMind  
-  <sup>§</sup>UC Berkeley  
-  <sup>¶</sup>Georgia Tech  
-  <sup>‖</sup>University of Alberta
+  <sup>†</sup>MIT, <sup>‡</sup>Google DeepMind, <sup>§</sup>UC Berkeley, <sup>¶</sup>Georgia Tech, <sup>‖</sup>University of Alberta
 
 - [**Learning Interactive Real-World Simulators**](http://arxiv.org/abs/2310.06114) [**arXiv 2024.09**] [[**Code**]](https://universal-simulator.github.io)
 
@@ -102,10 +97,7 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   </details>
 
   **Authors**: Sherry Yang<sup>1,2</sup>, Yilun Du<sup>3</sup>, Seyed Kamyar Seyed Ghasemipour<sup>2</sup>, Jonathan Tompson<sup>2</sup>, Leslie Kaelbling<sup>3</sup>, Dale Schuurmans<sup>2,4</sup>, Pieter Abbeel<sup>1</sup>  
-  <sup>1</sup>UC Berkeley  
-  <sup>2</sup>Google DeepMind  
-  <sup>3</sup>MIT  
-  <sup>4</sup>University of Alberta  
+  <sup>1</sup>UC Berkeley, <sup>2</sup>Google DeepMind, <sup>3</sup>MIT, <sup>4</sup>University of Alberta
 
 - [**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**](http://arxiv.org/abs/2412.15109) [**arXiv 2024.12**] [[**Code**]](https://nimolty.github.io/Seer/)
 
@@ -120,9 +112,4 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   </details>
 
   **Authors**: Yang Tian<sup>1,4,*</sup>, Sizhe Yang<sup>6,1,*</sup>, Jia Zeng<sup>1</sup>, Ping Wang<sup>3,4,5</sup>, Dahua Lin<sup>6</sup>, Hao Dong<sup>2</sup>, Jiangmiao Pang<sup>1,†</sup>  
-  <sup>1</sup>Shanghai AI Laboratory  
-  <sup>2</sup>CFCS, School of CS, Peking University  
-  <sup>3</sup>National Engineering Research Center for Software Engineering, Peking University  
-  <sup>4</sup>School of Software & Microelectronics, Peking University  
-  <sup>5</sup>Key Laboratory of High Confidence Software Technologies (PKU), Ministry of Education  
-  <sup>6</sup>Chinese University of Hong Kong
+  <sup>1</sup>Shanghai AI Laboratory, <sup>2</sup>University of California, San Diego, <sup>3</sup>University of California, Los Angeles, <sup>4</sup>University of California, Santa Barbara, <sup>5</sup>University of California, Davis, <sup>6</sup>University of California, Santa Cruz
