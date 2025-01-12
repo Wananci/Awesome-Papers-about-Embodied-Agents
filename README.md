@@ -104,3 +104,22 @@ Embodied agents are AI-driven systems designed to interact with the physical or 
   <sup>3</sup>MIT  
   <sup>4</sup>University of Alberta  
 
+- [**Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation**](http://arxiv.org/abs/2412.15109) [**arXiv 2024.12**] [[**Code**]](https://nimolty.github.io/Seer/)
+
+  <details>
+    <summary>🔍 <b>Highlight</b></summary>
+
+    - **End-to-End model**  
+    - **Unidirectional Attention Mask**  
+    - **Predict future image and action**  
+
+    ![Seer](./imgs/Seer.png)
+  </details>
+
+  **Authors**: Yang Tian<sup>1,4,*</sup>, Sizhe Yang<sup>6,1,*</sup>, Jia Zeng<sup>1</sup>, Ping Wang<sup>3,4,5</sup>, Dahua Lin<sup>6</sup>, Hao Dong<sup>2</sup>, Jiangmiao Pang<sup>1,†</sup>  
+  <sup>1</sup>Shanghai AI Laboratory  
+  <sup>2</sup>CFCS, School of CS, Peking University  
+  <sup>3</sup>National Engineering Research Center for Software Engineering, Peking University  
+  <sup>4</sup>School of Software & Microelectronics, Peking University  
+  <sup>5</sup>Key Laboratory of High Confidence Software Technologies (PKU), Ministry of Education  
+  <sup>6</sup>Chinese University of Hong Kong
